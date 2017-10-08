@@ -18,7 +18,7 @@ bool test=true;
                 if (buf == buf2){
                     letter_count++;
                     if (letter_count == 1){
-                        cout<< buf <<"\n" << "letter meeting 2 times or more " << "\n"; // Проверка на то что буква встречается 2 раза или более. Если требуется строго больше 2х раз - то if (letter_count ==1)
+                        cout<< buf <<"\n" << "letter meeting 2 times or more " << "\n"; // Проверка на то что буква встречается 2 раза или более. Если требуется строго больше 2х раз - то if (letter_count > 1 )
                         test = false;
                         break;
                         }
