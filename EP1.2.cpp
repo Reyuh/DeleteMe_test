@@ -13,7 +13,7 @@ bool test=true;
         int letter_count;
         if (buf != ' '){
             if (local_set.count(int(buf)) == 0 ){
-                for (int j = a.length() - 1; j > 0; j--){
+                for (int j = a.length(); j > i; j--){
                 char buf2 = char(a[j]);
                 if (buf == buf2){
                     letter_count++;
