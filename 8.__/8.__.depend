@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1508453359 source:/home/reyuh/Repository/8.__/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdio.h>
+
