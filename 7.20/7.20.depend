@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508418820 source:/home/reyuh/Repository/7.20/main.cpp
+	<iostream>
+	<random>
+	<iomanip>
+

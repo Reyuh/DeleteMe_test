@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1508268702 source:/home/reyuh/Repository/5.22/main.cpp
+	<iostream>
+	<string>
+	<set>
+	<iterator>
+
