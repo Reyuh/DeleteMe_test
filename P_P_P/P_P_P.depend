@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1544996301 source:/home/reyuh/P_P_P/main.cpp
+	"parse.h"
+	"cpp_creator.h"
+	<iostream>
+
+1544991518 source:/home/reyuh/P_P_P/included_structure.cpp
+	<string>
+	<vector>
+
+1544991046 /home/reyuh/P_P_P/included_structure.cpp
+	<string>
+	<vector>
+
+1544995129 /home/reyuh/P_P_P/tester.h
+	"included_structure.h"
+
+1544996287 source:/home/reyuh/P_P_P/tester.cpp
+	"included_structure.h"
+	"tester.h"
+	<set>
+
+1544991792 /home/reyuh/P_P_P/included_structure.h
+	<string>
+	<vector>
+
+1544991863 /home/reyuh/P_P_P/parse.h
+	"included_structure.h"
+	<string>
+
+1544992308 source:/home/reyuh/P_P_P/Parse.cpp
+	"included_structure.h"
+	<string>
+	<iostream>
+	<fstream>
+	<regex>
+	<vector>
+
+1544994842 source:/home/reyuh/P_P_P/cpp_creator.cpp
+	<iostream>
+	<fstream>
+	"cpp_creator.h"
+	"tester.h"
+
+1544993626 /home/reyuh/P_P_P/cpp_creator.h
+	"included_structure.h"
+
